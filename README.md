@@ -13,11 +13,11 @@ Ingeniero en formación con experiencia en automatización industrial, control d
 - Integración de medidores de energía
 
 ## Tecnologías
-PLC | SCADA | Modbus | BACnet | Excel | Python básico
+PLC | SCADA | Modbus | BACnet | Excel | Python | SQL | R
 
 ## Objetivo
 Desarrollarme en empresas globales de ingeniería y automatización.
 
 ## Contacto
-- LinkedIn: [link]
-- Email: [correo]
+- LinkedIn: https://www.linkedin.com/in/mauricio5521/
+- Email: mauricio552001@gmail.com
